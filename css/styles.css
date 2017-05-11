@@ -27,7 +27,7 @@ a:hover
 nav
 {
   margin-top: -3.12%;
-  margin-left: 20.1%;
+  margin-left: 19.1%;
   position: relative;
   z-index: 1;
 }
@@ -115,6 +115,9 @@ section
   color:#333;
   font-size: 1.2em;
   font-weight: bolder;
+  margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
 }
 
 .links:hover
