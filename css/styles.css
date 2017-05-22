@@ -129,7 +129,6 @@ section > strong
   color: #222;
 }
 
-
 #style-1::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -162,6 +161,18 @@ footer
   left: 0 !important;
 }
 
+
+.contacto img, span
+{
+    display: inline-block;
+}
+
+
+.contenedor
+{
+    margin-top: 15%;
+    margin-bottom: auto;
+}
 .slick_demo_2
 {
   margin-top: 10%;
